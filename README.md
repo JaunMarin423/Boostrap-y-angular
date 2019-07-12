@@ -1,5 +1,4 @@
-# Boostrap-y-angular
-Una muestra de FRONT END
+# ExamenAngular
 
 # Servidor de desarrollo
 Ejecutar ng serve para un servidor dev. Ir a http://localhost:4200/. La aplicación se volverá a cargar automáticamente si cambia alguno de los archivos de origen.
